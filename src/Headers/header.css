@@ -1,0 +1,45 @@
+
+.divheader2{
+    padding: 15px;
+    width: 100%;
+    height: 600px;
+    border: 2px solid black;
+    background-color: #FEFEFE;
+
+}
+.divheader2 h1{
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 45px;
+}
+.divheader2 h5{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 5px;
+    font-size: 15px;
+    color: rgb(112, 110, 110);
+
+
+}
+.divheader{
+    border: 2px solid #706767;
+    background-color: white;
+    height: 300px;
+    width: 60%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 18%;
+    margin-top: 80px;
+    border-radius: 10px;
+}
+.lorem{
+    margin-left:45% ;
+    padding: 15px;
+    gap: 10px;
+}
+.lorem1{
+    margin-left: 46.5%;
+}

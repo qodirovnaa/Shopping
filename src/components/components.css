@@ -1,0 +1,69 @@
+.div{
+    border: 2px solid black;
+    width: 100%;
+    height: 700px;
+}
+.div h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 40px;
+    
+}
+.div h5{
+    display: flex;
+    justify-content: center;
+
+    
+}
+.div2{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.card{
+    border: 2px solid black;
+    width: 25%;
+    height: 500px;
+    border-radius: 10px;
+}
+.box{
+    border: 2px solid black;
+    height: 150px;
+    width: 100%;
+    margin-top: 350px;
+    border-radius: 10px;
+    
+
+}
+.box h5{
+    justify-content: left;
+    margin-top: 10px;
+    color: grey;
+    padding: 10px;
+    font-size: 15px;
+    
+}
+.box h1{
+    font-size: 30px;
+    display: block;
+    margin-top: 1px;
+    margin-left: 0px;
+    padding: 5px;
+
+}
+.box h3{
+    color: gray;
+    text-decoration: line-through;
+    font-size: 25px;
+    padding: 10px;
+    margin-left: 75px;
+    margin-top: -45px;
+    
+
+}
+.yashil{
+    color: green;
+
+}

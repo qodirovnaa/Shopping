@@ -1,0 +1,23 @@
+.input{
+    width: 50%;
+    height: 80px;
+    margin-left: 25%;
+    margin-top: 20px;
+    border-radius: 60px;
+    background-color: #F7F7F7;
+    border: none;
+}
+.divfation{
+    display: flex;
+}
+
+.era{
+    color: yellow;
+    margin-left: 15px;
+}
+.fashion{
+    color: #004743 ;
+}
+.h5{
+    margin-top: 150px;
+}
